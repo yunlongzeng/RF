@@ -32,12 +32,13 @@ user19成功登录
 
 *** Test Cases ***
 删除帖子
+    [Tags]      smokeTesting
     ${get_time_index}       util.get_time_index
     Log To Console          ${get_time_index}.png
     user19成功登录
     截屏
     # # 删除帖子
-    
+
     # [Teardown]  Capture Page Screenshot     ${get_time_index}.png
     # Close Browser       
 

@@ -13,7 +13,7 @@ ${valid_email}              12321321@qq.com
 
 *** Keywords ***
 打开注册页面
-    Open Browser        ${url}
+    Open Browser        ${url}  chrome
 
 输入用户名
     [Arguments]         ${username}
@@ -30,3 +30,10 @@ ${valid_email}              12321321@qq.com
 输入email
     [Arguments]        ${email}
     Input Text       id:email  ${email}
+
+关闭浏览器并清空cookie
+    Close Browser
+    Delete All Cookies
+    
+关闭浏览器
+    Close Browser

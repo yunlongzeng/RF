@@ -7,6 +7,7 @@ Resource          resource.robot
 
 *** Test Cases ***
 Valid Login
+    [Tags]   smokeTesting
     Open Browser To Login Page
     Input Username    demo
     Input Password    mode

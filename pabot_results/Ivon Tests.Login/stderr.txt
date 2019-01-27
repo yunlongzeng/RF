@@ -1,0 +1,11 @@
+[ ERROR ] Error in file 'E:\github上传文件\Selenium\day06\WebDemo\ivon_tests\login.robot': Importing test library 'util' failed: ModuleNotFoundError: No module named 'util'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  E:\github上传文件\Selenium\day06\WebDemo
+  D:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python37.zip
+  D:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\DLLs
+  D:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib
+  D:\Users\Administrator\AppData\Local\Programs\Python\Python37-32
+  C:\Users\Administrator\AppData\Roaming\Python\Python37\site-packages
+  D:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\lib\site-packages

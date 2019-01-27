@@ -1,0 +1,17 @@
+==============================================================================
+Ivon Tests                                                                    
+==============================================================================
+Ivon Tests.Login :: test login                                                
+==============================================================================
+删除帖子                                                              | FAIL |
+No keyword with name 'util.get_time_index' found.
+------------------------------------------------------------------------------
+Ivon Tests.Login :: test login                                        | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Ivon Tests                                                            | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  E:\github上传文件\Selenium\day06\WebDemo\pabot_results\Ivon Tests.Login\output.xml
